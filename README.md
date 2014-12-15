@@ -1,5 +1,6 @@
 Lessen
-======(https://github.com/DstylezProductions/Lessen/wiki)
+======
+- [WiKi](https://github.com/DstylezProductions/Lessen/wiki)
 - [HTML](https://github.com/DstylezProductions/Lessen/wiki/HTML)
 - [CSS](https://github.com/DstylezProductions/Lessen/wiki/CSS)       
 - [PHP](https://github.com/DstylezProductions/Lessen/wiki/PHP)       
@@ -9,9 +10,8 @@ Lessen
 Youtube
 ======
 
-De lessen worden vooral gegeven via de video's op youtube en in de github!
-
-http://bit.ly/1uvBVwN
+De lessen komen eerder op de [Github Wiki](https://github.com/DstylezProductions/Lessen/wiki) dan de video's op youtube
+De lessen worden vooral gegeven via de video's op [YouTube](http://bit.ly/1uvBVwN) en in de github!
 
 Vragen
 ======
