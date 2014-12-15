@@ -1,9 +1,10 @@
-Lessen
+[Lessen](https://github.com/DstylezProductions/Lessen/wiki)
 ======
-- HTML      																																																												
-- CSS       
-- PHP       
-- JQUERY 
+- [HTML](https://github.com/DstylezProductions/Lessen/wiki/HTML)
+- [CSS](https://github.com/DstylezProductions/Lessen/wiki/CSS)       
+- [PHP](https://github.com/DstylezProductions/Lessen/wiki/PHP)       
+- [JQUERY](https://github.com/DstylezProductions/Lessen/wiki/JQUERY)
+- [MYSQLI](https://github.com/DstylezProductions/Lessen/wiki/MYSQLI)
 
 Youtube
 ======
