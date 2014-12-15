@@ -10,7 +10,7 @@ Lessen
 Youtube
 ======
 
-De lessen komen eerder op de [Github Wiki](https://github.com/DstylezProductions/Lessen/wiki) dan de video's op youtube
+De lessen komen eerder op de [Github Wiki](https://github.com/DstylezProductions/Lessen/wiki) dan de video's op YouTube.<br>
 De lessen worden vooral gegeven via de video's op [YouTube](http://bit.ly/1uvBVwN) en in de github!
 
 Vragen
